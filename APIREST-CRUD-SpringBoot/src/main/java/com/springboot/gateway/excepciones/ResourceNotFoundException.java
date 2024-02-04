@@ -15,7 +15,7 @@ public class ResourceNotFoundException extends RuntimeException {
 	
 	private String nombreDelCampo;
 	
-	private long valorDelCampo;
+	private Long valorDelCampo;
 
 	public ResourceNotFoundException(String nombreDelRecurso, String nombreDelCampo, long valorDelCampo) {
 		super(String.format("%s no encontrado con : %s : '%s'",nombreDelRecurso,nombreDelCampo,valorDelCampo));
