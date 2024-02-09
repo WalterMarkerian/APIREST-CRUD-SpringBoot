@@ -1,0 +1,17 @@
+package com.springboot.gateway.servicio;
+
+
+import org.springframework.stereotype.Service;
+
+import com.springboot.gateway.dto.PublicacionDTO;
+
+@Service
+public class PublicacionServicioImpl implements PublicacionServicio {
+
+	@Override
+	public PublicacionDTO crearPublicacion(PublicacionDTO publicacion) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

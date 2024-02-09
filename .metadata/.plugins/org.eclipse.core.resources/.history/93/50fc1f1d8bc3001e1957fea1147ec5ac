@@ -1,0 +1,7 @@
+package com.springboot.gateway.servicio;
+
+import com.springboot.gateway.dto.PublicacionDTO;
+
+public class PublicacionServicio {
+	public PublicacionDTO crearPublicacion(PublicacionDTO publicacionDTO);
+}

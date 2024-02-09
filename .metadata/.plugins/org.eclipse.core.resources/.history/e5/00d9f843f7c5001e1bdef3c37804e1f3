@@ -1,0 +1,39 @@
+package com.springboot.gateway.servicio;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.springboot.gateway.dto.ComentarioDTO;
+import com.springboot.gateway.entidades.Comentario;
+import com.springboot.gateway.entidades.Publicacion;
+import com.springboot.gateway.excepciones.ResourceNotFoundException;
+import com.springboot.gateway.repositorio.ComentarioRepositorio;
+import com.springboot.gateway.repositorio.PublicacionRepositorio;
+import com.springboot.gateway.translator.ConversorComentario;
+
+@Service
+public class ComentarioServicioImpl implements ComentarioServicio{
+	
+	@Autowired
+	private ComentarioRepositorio comentarioRepositorio;
+	
+	@Autowired
+	private PublicacionRepositorio publicacionRepositorio;
+	
+	@Autowired
+	private ConversorComentario conversorComentario;
+
+	@Override
+	public ComentarioDTO crearComentario(Long publicacionId, ComentarioDTO comentarioDTO) {
+		Comentario comentario = conversorComentario.mapearEntidad(comentarioDTO);
+		Publicacion publicacion = publicacionRepositorio.findById(publicacionId)
+				.orElseThrow(() -> new ResourceNotFoundException("Publicacion", "id", publicacionId));
+
+		comentario.setPublicacion(publicacion);
+		Comentario nuevComentario = comentarioRepositorio.save(comentario);
+		return conversorComentario.mapearDTO(nuevComentario);
+	}
+
+
+	
+}

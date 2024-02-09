@@ -1,0 +1,5 @@
+package com.springboot.gateway.repositorio;
+
+public interface PublicacionRepositorio {
+
+}

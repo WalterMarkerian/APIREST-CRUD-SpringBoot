@@ -1,0 +1,5 @@
+package com.springboot.gateway.translator;
+
+public class ConversorPublicacion {
+
+}

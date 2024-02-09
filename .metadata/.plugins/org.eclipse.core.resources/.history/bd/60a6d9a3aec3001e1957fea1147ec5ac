@@ -1,0 +1,5 @@
+package com.springboot.gateway.utilerias;
+
+public class AppConstantes {
+
+}

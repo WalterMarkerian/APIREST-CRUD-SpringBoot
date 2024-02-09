@@ -1,0 +1,11 @@
+package com.springboot.gateway.servicio;
+
+import java.util.List;
+
+import com.springboot.gateway.dto.PublicacionDTO;
+
+public interface PublicacionServicio {
+	public PublicacionDTO crearPublicacion(PublicacionDTO publicacionDTO);
+	
+	public List<PublicacionDTO> obtenerTodasLasPublicaciones();
+}

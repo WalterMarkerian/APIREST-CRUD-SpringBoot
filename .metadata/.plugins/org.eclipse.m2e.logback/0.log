@@ -1,0 +1,549 @@
+2024-02-04 14:42:33,746 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-04 14:45:02,394 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.gateway:APIREST-CRUD-SpringBoot:1.0 @ C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\pom.xml.
+2024-02-04 14:45:05,852 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIREST-CRUD-SpringBoot/src/main/java
+2024-02-04 14:45:05,853 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/main/resources
+2024-02-04 14:45:05,864 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/main/resources
+2024-02-04 14:45:05,972 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIREST-CRUD-SpringBoot/src/test/java
+2024-02-04 14:45:05,972 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/test/resources
+2024-02-04 14:45:07,681 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2024-02-04 14:45:07,687 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-04 14:45:09,204 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.gateway:APIREST-CRUD-SpringBoot:1.0 @ C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\pom.xml.
+2024-02-04 14:45:09,856 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIREST-CRUD-SpringBoot/src/main/java
+2024-02-04 14:45:09,856 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/main/resources
+2024-02-04 14:45:09,857 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/main/resources
+2024-02-04 14:45:09,858 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIREST-CRUD-SpringBoot/src/test/java
+2024-02-04 14:45:09,858 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/test/resources
+2024-02-04 14:45:10,614 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 2,00 sec, update config takes 0,00 sec 
+2024-02-04 14:45:11,841 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 14:45:11,873 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 14:45:11,881 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 14:46:30,552 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.gateway:APIREST-CRUD-SpringBoot:1.0 @ C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\pom.xml.
+2024-02-04 14:46:31,843 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.2.2/spring-boot-starter-validation-3.2.2.pom
+2024-02-04 14:46:31,860 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.2.2/spring-boot-starter-validation-3.2.2.pom
+2024-02-04 14:46:31,955 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.pom
+2024-02-04 14:46:31,970 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.pom
+2024-02-04 14:46:32,085 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-parent/8.0.1.Final/hibernate-validator-parent-8.0.1.Final.pom
+2024-02-04 14:46:32,114 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-parent/8.0.1.Final/hibernate-validator-parent-8.0.1.Final.pom
+2024-02-04 14:46:32,152 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.7.0.Alpha10/arquillian-bom-1.7.0.Alpha10.pom
+2024-02-04 14:46:32,158 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.7.0.Alpha10/arquillian-bom-1.7.0.Alpha10.pom
+2024-02-04 14:46:32,278 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom
+2024-02-04 14:46:32,283 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom
+2024-02-04 14:46:32,408 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/3.1.4/shrinkwrap-resolver-bom-3.1.4.pom
+2024-02-04 14:46:32,414 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/3.1.4/shrinkwrap-resolver-bom-3.1.4.pom
+2024-02-04 14:46:32,442 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.6.3/maven-3.6.3.pom
+2024-02-04 14:46:32,450 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.6.3/maven-3.6.3.pom
+2024-02-04 14:46:32,584 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom
+2024-02-04 14:46:32,590 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom
+2024-02-04 14:46:32,733 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.pom
+2024-02-04 14:46:32,755 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.pom
+2024-02-04 14:46:33,513 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.2.2/spring-boot-starter-validation-3.2.2.jar
+2024-02-04 14:46:33,518 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.2.2/spring-boot-starter-validation-3.2.2.jar
+2024-02-04 14:46:33,535 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.jar
+2024-02-04 14:46:33,832 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.jar
+2024-02-04 14:46:33,858 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar
+2024-02-04 14:46:33,881 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar
+2024-02-04 14:46:34,508 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 14:46:34,510 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 14:46:34,517 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 14:46:34,718 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-04 14:46:37,414 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.2.2/spring-boot-starter-validation-3.2.2-sources.jar
+2024-02-04 14:46:37,421 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.2.2/spring-boot-starter-validation-3.2.2-sources.jar
+2024-02-04 14:46:37,428 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:3.2.2
+2024-02-04 14:46:37,478 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final-sources.jar
+2024-02-04 14:46:37,570 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.gateway:APIREST-CRUD-SpringBoot:1.0 @ C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\pom.xml.
+2024-02-04 14:46:37,699 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final-sources.jar
+2024-02-04 14:46:37,712 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator:8.0.1.Final
+2024-02-04 14:46:37,778 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2-sources.jar
+2024-02-04 14:46:37,814 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2-sources.jar
+2024-02-04 14:46:37,828 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.validation:jakarta.validation-api:3.0.2
+2024-02-04 14:46:39,592 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIREST-CRUD-SpringBoot/src/main/java
+2024-02-04 14:46:39,592 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/main/resources
+2024-02-04 14:46:39,593 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/main/resources
+2024-02-04 14:46:39,595 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIREST-CRUD-SpringBoot/src/test/java
+2024-02-04 14:46:39,595 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIREST-CRUD-SpringBoot/src/test/resources
+2024-02-04 14:46:40,635 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 4,00 sec, update config takes 0,00 sec 
+2024-02-04 14:46:42,727 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 14:46:42,789 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 14:46:42,800 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 14:53:37,689 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 14:53:37,700 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 14:53:37,704 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 14:53:56,647 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 14:53:56,664 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 14:53:56,669 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:02:27,736 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.gateway:APIREST-CRUD-SpringBoot:1.0 @ C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\pom.xml.
+2024-02-04 15:02:28,787 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:02:28,813 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:02:28,821 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:07:30,985 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:07:30,995 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:07:31,003 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:08:35,744 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:08:35,752 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:08:35,757 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:08:54,248 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:08:54,258 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:08:54,264 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:14:33,223 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:14:33,241 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:14:33,245 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:15:21,158 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:15:21,213 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:15:21,219 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:23:57,496 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:23:57,503 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:23:57,506 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:24:19,535 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:24:19,543 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:24:19,547 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:25:00,974 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:25:00,990 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:25:00,998 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:25:15,714 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:25:15,719 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:25:15,721 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:27:18,207 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:27:18,213 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:27:18,217 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:27:55,909 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:27:55,912 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:27:55,915 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:28:36,305 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:28:36,308 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:28:36,311 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:29:12,364 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:29:12,368 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:29:12,371 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:29:35,421 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:29:35,428 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:29:35,432 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:40:53,430 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:40:53,455 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:40:53,464 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:42:49,133 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:42:49,144 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:42:49,150 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:49:24,375 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:49:24,383 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:49:24,388 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:59:39,339 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:59:39,346 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:59:39,348 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 15:59:49,111 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 15:59:49,118 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 15:59:49,121 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:06:23,266 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:06:23,275 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:06:23,280 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:08:12,990 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:08:13,001 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:08:13,005 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:12:57,074 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:12:57,081 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:12:57,086 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:16:58,113 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:16:58,119 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:16:58,122 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:17:06,682 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:17:06,688 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:17:06,690 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:22:23,295 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:22:23,302 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:22:23,307 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:24:15,238 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:24:15,246 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:24:15,250 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:27:08,570 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:27:08,575 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:27:08,578 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:27:09,702 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:27:09,707 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:27:09,710 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:29:29,537 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:29:29,560 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:29:29,565 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:33:59,662 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:33:59,671 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:33:59,676 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:37:25,460 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:37:25,466 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:37:25,474 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:39:19,471 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:39:19,479 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:39:19,509 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:41:30,694 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:41:30,707 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:41:30,711 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:43:58,477 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:43:58,484 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:43:58,488 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:44:51,386 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:44:51,394 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:44:51,398 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:44:55,729 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:44:55,733 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:44:55,737 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:47:03,464 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:47:03,477 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:47:03,486 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:49:52,090 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:49:52,098 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:49:52,102 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:51:42,163 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:51:42,169 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:51:42,171 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:52:30,138 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:52:30,142 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:52:30,144 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:54:00,361 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:54:00,368 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:54:00,370 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 16:54:38,994 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 16:54:39,001 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 16:54:39,004 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 17:45:58,871 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 17:45:58,873 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 17:45:58,876 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 17:52:22,119 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 17:52:22,143 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 17:52:22,147 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 17:52:51,866 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 17:52:51,872 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 17:52:51,876 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 17:53:19,129 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 17:53:19,145 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 17:53:19,150 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 18:10:52,367 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 18:10:52,377 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 18:10:52,381 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 18:32:09,814 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 18:32:09,820 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 18:32:09,822 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 18:34:31,671 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 18:34:31,676 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 18:34:31,679 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 18:36:11,206 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 18:36:11,214 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 18:36:11,221 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 18:38:33,468 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 18:38:33,473 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 18:38:33,476 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:09:44,018 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:09:44,031 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:09:44,037 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:10:08,353 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:10:08,368 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:10:08,370 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:10:14,812 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:10:14,815 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:10:14,818 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:10:30,376 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 20.0.2+9-78
+2024-02-04 19:10:30,456 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@278aef90{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@65ff53a3{STARTED}}
+2024-02-04 19:10:30,457 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-02-04 19:10:30,493 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@299b3544{HTTP/1.1, (http/1.1)}{127.0.0.1:53560}
+2024-02-04 19:10:30,498 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@2e3adf71{STARTING}[12.0.3,sto=0] @16114566ms
+2024-02-04 19:12:40,857 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:12:40,864 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:12:40,868 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:13:01,752 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:13:01,759 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:13:01,763 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:15:21,187 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:15:21,194 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:15:21,198 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:16:16,274 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:16:16,282 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:16:16,286 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:16:57,998 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:16:58,004 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:16:58,008 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:21:58,059 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:21:58,067 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:21:58,070 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:21:59,143 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:21:59,149 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:21:59,152 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:27:42,434 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:27:42,442 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:27:42,445 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:27:50,241 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:27:50,246 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:27:50,249 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:28:07,508 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:28:07,515 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:28:07,518 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:28:36,304 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:28:36,309 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:28:36,313 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:28:56,832 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:28:56,836 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:28:56,838 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:31:28,268 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:31:28,276 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:31:28,281 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:31:51,072 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:31:51,080 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:31:51,084 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:32:49,681 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:32:49,695 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:32:49,699 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:35:14,312 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:35:14,318 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:35:14,321 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:40:48,634 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:40:48,650 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:40:48,653 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:42:14,271 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:42:14,298 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:42:14,301 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:44:53,272 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:44:53,277 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:44:53,280 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:44:55,218 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:44:55,226 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:44:55,230 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:45:04,138 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:45:04,144 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:45:04,148 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 19:50:30,903 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.gateway:APIREST-CRUD-SpringBoot:1.0 @ C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\pom.xml.
+2024-02-04 19:50:32,271 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-04 19:50:32,304 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-04 19:50:32,312 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-04 20:33:23,588 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@2e3adf71{STOPPING}[12.0.3,sto=0]
+2024-02-04 20:33:23,596 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@299b3544{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-02-06 17:06:54,292 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-07 14:31:25,242 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-07 14:45:55,974 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 14:45:56,000 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 14:45:56,006 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 14:48:18,411 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 14:48:18,417 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 14:48:18,420 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:00:56,550 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:00:56,567 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:00:56,576 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:02:00,810 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:02:00,815 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:02:00,818 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:02:07,907 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:02:07,911 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:02:07,914 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:03:47,744 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:03:47,753 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:03:47,758 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:03:56,495 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:03:56,512 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:03:56,520 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:05:27,942 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:05:27,952 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:05:27,958 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:07:33,891 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:07:33,901 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:07:33,907 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:19:40,241 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:19:40,247 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:19:40,251 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:19:54,206 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:19:54,229 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:19:54,237 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:24:09,426 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:24:09,434 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:24:09,438 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:30:48,867 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:30:48,873 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:30:48,876 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:38:13,739 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:38:13,751 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:38:13,754 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:40:06,937 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:40:06,944 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:40:06,949 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 15:40:20,705 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 15:40:20,710 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 15:40:20,714 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:05:09,679 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:05:09,695 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:05:09,700 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:06:29,112 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:06:29,123 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:06:29,126 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:07:09,483 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:07:09,487 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:07:09,490 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:14:57,651 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:14:57,672 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:14:57,678 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:17:52,676 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:17:52,683 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:17:52,688 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:21:13,080 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:21:13,086 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:21:13,089 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:27:08,512 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:27:08,519 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:27:08,523 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:27:41,157 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:27:41,162 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:27:41,166 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:29:01,607 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:29:01,619 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:29:01,624 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:29:13,020 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:29:13,026 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:29:13,029 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:30:56,714 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:30:56,721 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:30:56,725 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:31:24,830 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:31:24,836 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:31:24,841 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:33:39,997 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:33:40,003 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:33:40,009 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:40:15,023 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:40:15,038 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:40:15,041 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:40:59,094 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:40:59,099 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:40:59,104 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:46:54,688 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:46:54,695 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:46:54,700 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:47:49,756 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:47:49,761 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:47:49,763 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:49:20,436 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:49:20,441 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:49:20,445 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:53:24,699 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:53:24,704 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:53:24,706 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:53:48,232 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:53:48,247 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:53:48,250 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:54:49,076 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:54:49,080 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:54:49,083 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:55:47,036 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:55:47,040 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:55:47,043 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:55:49,869 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:55:49,875 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:55:49,880 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:56:04,903 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:56:04,907 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:56:04,910 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:56:29,804 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:56:29,808 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:56:29,810 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 17:58:34,395 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 17:58:34,402 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 17:58:34,405 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:03:30,965 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:03:30,971 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:03:30,974 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:12:13,177 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:12:13,184 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:12:13,187 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:26:11,983 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:26:12,004 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:26:12,007 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:26:19,944 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:26:19,949 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:26:19,953 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:26:51,298 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:26:51,302 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:26:51,304 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:30:14,997 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:30:15,001 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:30:15,004 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:33:31,781 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:33:31,786 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:33:31,789 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:50:33,758 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:50:33,826 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:50:33,841 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:51:17,585 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:51:17,602 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:51:17,614 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 18:52:02,269 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-07 18:52:35,179 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 18:52:35,189 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 18:52:35,198 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 19:42:44,414 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 19:42:44,419 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 19:42:44,425 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 19:45:26,496 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 19:45:26,503 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 19:45:26,508 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 19:48:25,589 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 19:48:25,599 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 19:48:25,605 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 19:56:50,119 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 19:56:50,131 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 19:56:50,136 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-07 20:35:50,552 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-07 20:35:50,577 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-07 20:35:50,585 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-08 10:11:56,555 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-09 11:29:14,934 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-09 12:20:21,176 [Worker-31: Launching APIREST-CRUD-SpringBoot - ApirestCrudSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:20:21,217 [Worker-31: Launching APIREST-CRUD-SpringBoot - ApirestCrudSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:20:21,223 [Worker-31: Launching APIREST-CRUD-SpringBoot - ApirestCrudSpringBootApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 12:45:17,422 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:45:17,426 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:45:17,438 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 12:46:50,841 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:46:50,843 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:46:50,847 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 12:47:45,567 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:47:45,576 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:47:45,580 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 12:47:57,023 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:47:57,024 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:47:57,030 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 12:48:20,028 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:48:20,046 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:48:20,049 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 12:48:57,820 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:48:57,831 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:48:57,835 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 12:49:21,622 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:49:21,623 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:49:21,628 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 12:49:27,821 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 12:49:27,822 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 12:49:27,828 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:15:21,105 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:15:21,106 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:15:21,111 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:15:33,978 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:15:33,979 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:15:33,984 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:16:12,159 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:16:12,160 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:16:12,167 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:17:40,594 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:17:40,596 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:17:40,601 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:20:06,304 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:20:06,305 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:20:06,311 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:31:56,693 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:31:56,694 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:31:56,699 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:33:12,069 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:33:12,070 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:33:12,075 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:33:54,548 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:33:54,549 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:33:54,554 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:34:36,054 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:34:36,055 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:34:36,061 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:35:37,615 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:35:37,616 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:35:37,621 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources
+2024-02-09 13:35:56,789 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 13:35:56,790 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-09 13:35:56,795 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Program Files\Develop\workspace\java\spring\APIREST-CRUD-SpringBoot\APIREST-CRUD-SpringBoot\src\test\resources

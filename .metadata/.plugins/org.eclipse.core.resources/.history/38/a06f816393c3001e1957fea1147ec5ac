@@ -1,0 +1,31 @@
+//package com.springboot.gateway.translator;
+//
+//import org.springframework.stereotype.Component;
+//
+//import com.springboot.gateway.dto.PublicacionDTO;
+//import com.springboot.gateway.entidades.Publicacion;
+//
+//@Component
+//public class ConversorPublicacion {
+//	
+//	
+//	//Método para convertir Publicacion a PublicacionDTO
+//	public PublicacionDTO toDto(Publicacion nuevaPublicacion) {
+//		PublicacionDTO publicacionRespuesta = new PublicacionDTO();
+//		publicacionRespuesta.setId(nuevaPublicacion.getId());
+//		publicacionRespuesta.setTitulo(nuevaPublicacion.getTitulo());
+//		publicacionRespuesta.setDescripcion(nuevaPublicacion.getDescripcion());
+//		publicacionRespuesta.setContenido(nuevaPublicacion.getContenido());
+//		return publicacionRespuesta;	
+//	}
+//	
+//	//Método para convertir PublicacionDTO a Publicacion
+//	public Publicacion toEntidad(PublicacionDTO publicacionDTO) {
+//		Publicacion publicacion = new Publicacion();
+//		publicacion.setTitulo(publicacionDTO.getTitulo());
+//		publicacion.setDescripcion(publicacionDTO.getDescripcion());
+//		publicacion.setContenido(publicacionDTO.getContenido());
+//		return publicacion;
+//		}
+//	
+//}
